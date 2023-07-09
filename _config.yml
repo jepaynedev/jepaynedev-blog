@@ -34,6 +34,23 @@ theme: minima
 plugins:
   - jekyll-feed
 
+# jekyll-compose configuration
+jekyll_compose:
+  auto_open: true
+  default_front_matter:
+    drafts:
+      layout: post
+      title:
+      date:
+      category:
+      tags:
+    posts:
+      layout: post
+      title:
+      date:
+      category:
+      tags:
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
