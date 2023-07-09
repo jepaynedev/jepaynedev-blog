@@ -1,4 +1,10 @@
-MIT License
+# Content
+All files inside the `_posts` and `_drafts` directories are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+# Other Files
+Files not specified in the previous sections are are licensed under MIT License. 
+
+## MIT License
 
 Copyright (c) 2023 James Payne
 
