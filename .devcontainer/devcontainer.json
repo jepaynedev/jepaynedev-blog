@@ -1,0 +1,16 @@
+{
+    "image":"mcr.microsoft.com/devcontainers/universal:2",
+    "updateContentCommand": "bundle install",
+    "customizations": {
+        "codespaces": {
+            "openFiles": [
+                "README.md"
+            ]
+        }
+	},
+	"portsAttributes": {
+		"4000": {
+			"label": "Preview"
+		}
+	}
+}
