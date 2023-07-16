@@ -6,7 +6,13 @@
             "openFiles": [
                 "README.md"
             ]
-        }
+		},
+		"vscode": {
+			"extensions": [
+				"eamodio.gitlens",
+				"DavidAnson.vscode-markdownlint"
+			]
+		}
 	},
 	"portsAttributes": {
 		"4000": {
